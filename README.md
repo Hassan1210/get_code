@@ -11,7 +11,7 @@ I specialize in **backend development, ERP customization, and mobile/web applica
 📍 **Location:** Sargodha, Punjab, Pakistan  
 📧 **Email:** [hch33129@gmail.com](mailto:hch33129@gmail.com)  
 🔗 **LinkedIn:** [ch-hassan210](https://www.linkedin.com/in/ch-hassan210/)  
-🌐 **Portfolio Website:** [ch-hassan.me]  
+🌐 **Portfolio Website:** [https://www.ch-hassan.me]  
 
 ---
 
